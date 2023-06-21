@@ -42,8 +42,6 @@ _1.- Deberás de instalar las dependencias de laravel con el siguiente comando_
 
 
 ```
-git clone git@github.com:rigo42/Crm-Laravel-Livewire.git
-composer install
 ```
 
 _2.- Una vez que se terminen de descargar el proyecto y las dependencias_
@@ -95,12 +93,3 @@ php artisan migrate
 * "spatie/laravel-analytics": "^3.11",
 * "spatie/laravel-backup": "^6.16",
 * "spatie/laravel-permission": "^4.0"
-
-## Autor ✒️
-
-* **Rigoberto Villa Rodríguez** - *Programador Full Stack* - [Rigoberto Villa](https://github.com/rigo42)
-
-
-
----
-⌨️ con ❤️ por [Rigoberto Villa Rodríguez](https://github.com/rigo42) 😊
